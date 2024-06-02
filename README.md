@@ -1,3 +1,3 @@
 ## Rockiest Bot Source Tree
 
-(Discord Sunucusu)[https://discord.gg/rockiest]
+[Discord Sunucusu](https://discord.gg/rockiest)
